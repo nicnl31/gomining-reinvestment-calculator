@@ -7,10 +7,13 @@ you can get for a miner after reinvesting.
 
 In the command line, run the following:
 
-$ `git clone https://github.com/nicnl31/gomining-reinvestment-calculator`
-$ `cd gomining-reinvestment_calculator`
-$ `pip install -r requirements.txt`
-$ `python main.py`
+`$ git clone https://github.com/nicnl31/gomining-reinvestment-calculator`
+
+`$ cd gomining-reinvestment_calculator`
+
+`$ pip install -r requirements.txt`
+
+`$ python main.py`
 
 # Structure
 
